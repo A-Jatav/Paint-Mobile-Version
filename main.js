@@ -9,7 +9,7 @@ var psh = screen.height - 300;
 if(screen_width < 992){
     document.getElementById("canvas1").width = psw;
     document.getElementById("canvas1").height = psh;
-    document.body.style.overflow = "hidden";
+/*    document.body.style.overflow = "hidden";*/
 };
 canvas.addEventListener("touchstart", touchstartfunc);
 
