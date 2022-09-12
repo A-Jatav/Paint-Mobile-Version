@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    color: lightseagreen;
+    background-color: aquamarine;
+    background-image: url("backpic.jpg");
+    background-size: cover;
+}
+#cbtn{
+    background-color: aquamarine;
+}
+#canvas1{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+    border-color: rgb(185, 177, 177);
+}
